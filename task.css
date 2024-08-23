@@ -1,0 +1,102 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiloyLc2L8eQnSeFNlP9e4mafwNK2g9ByeUg&s);
+    background-size: cover;
+}
+
+header nav a {
+    font-style: italic;
+}
+
+.B {
+    position: absolute;
+}
+
+.BV {
+    position: fixed;
+    top: 0;
+    background: linear-gradient(#0606e1, white, rgba(6, 240, 57, 0.747));
+    width: 99%;
+}
+
+.BVR {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.head {
+    display: inline-block;
+    margin-left: 500px;
+}
+
+.header {
+    padding: 2px;
+    position: sticky;
+    top: 0;
+    box-shadow: 5px 5px 5px rgb(79, 108, 98);
+    z-index: 2;
+}
+
+.box {
+    background: linear-gradient(rgb(91, 139, 244), white, rgb(144, 249, 138));
+    margin-top: 100px;
+    border-radius: 5px;
+    display: block;
+    padding: 15px;
+}
+
+.box2 {
+    text-align: center;
+}
+
+.box3 {
+    text-align: end;
+}
+
+.para {
+    width: 97%;
+    color: hsl(0, 0%, 100%);
+    padding: 20px;
+    display: block;
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 5%;
+}
+
+.jagan img {
+    width: 1200px;
+    height: 150px;
+    border: 2px solid;
+    margin-top: 20px;
+    border-radius: 7px;
+    object-fit: contain;
+}
+
+.jagan1 img {
+    width: 1200px;
+    height: 260px;
+    border: 2px solid;
+    object-fit: fill;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.jagan2 img {
+    width: 1200px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
+.paragraph {
+    display: block;
+    margin-top: 10px;
+    border: 2px solid;
+    font-size: 20px;
+    background-color: rgb(161, 249, 187);
+    padding: 20px;
+    direction: rtl;
+}
+
+    
